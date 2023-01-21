@@ -13,13 +13,13 @@
 
 	<!-- <bean id="vehicle" class="com.navin.Telusko.Bike"></bean> -->
 
-	<bean id="tyre"
-		class="com.telusko.annotations_based_constructor_injection.Tyre">
+	<!-- <bean id="tyre"
+		class="com.telusko.annotations_based_constructor_injection.Tyre"> -->
 
 		<!-- <property name="brand" value="Ceat"></property> -->
-		<constructor-arg value="MRF" ></constructor-arg> 	
+		<!-- <constructor-arg value="MRF" ></constructor-arg> --> 	
 		
 		
 
-	</bean>
+	<!-- </bean> -->
 </beans>
